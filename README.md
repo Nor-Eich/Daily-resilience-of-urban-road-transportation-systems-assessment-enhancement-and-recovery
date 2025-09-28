@@ -1,0 +1,1 @@
+Main_code.ipynb has all the code of the main process in our Paper including Calculate link criticality score, Make network weighted matrix,Identification of resilient-node and Resilience Linear Gain Interval 
